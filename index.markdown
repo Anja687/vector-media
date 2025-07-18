@@ -8,3 +8,4 @@ Welcome to your centralized hub for vector graphics and media management!
 - Upload and organize vector files
 - Preview and edit designs
 - Share projects with your team
+
