@@ -1,6 +1,6 @@
 ---
-title: Vector Media Dashboard
-description: A dashboard for managing and showcasing vector-based media projects.
+
+description: A different kind of dashboard for managing and operating.
 ---
 # Vector Media Dashboard
 Welcome to your centralized hub for vector graphics and media management!
