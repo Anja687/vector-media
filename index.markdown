@@ -1,6 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: Vector Media Dashboard
+description: A dashboard for managing and showcasing vector-based media projects.
 ---
+# Vector Media Dashboard
+Welcome to your centralized hub for vector graphics and media management!
+## Features
+- Upload and organize vector files
+- Preview and edit designs
+- Share projects with your team
